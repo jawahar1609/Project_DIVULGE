@@ -19,6 +19,6 @@ Divulge is build with Pix2Pix is a Generative Adversarial Network, or GAN, model
 
 ## Contributors
 - [Mukesh K](https://github.com/mukesh663)
-- Harish B
-- I.V. Srisurya
+- [Harish B](https://github.com/irahgem)
+- [I.V. Srisurya](https://github.com/IVSrisurya)
 - G. Dhyanasai
