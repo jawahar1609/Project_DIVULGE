@@ -1,6 +1,8 @@
 # Project_DIVULGE
 ## Facial reconstruction Web-app
 
+Amid the COVID-19 pandemic, wearing masks in public settings is an effective way to prevent viruses from spreading. Masked face reconstruction is a highly useful in the following areas.
+
 Pix2Pix is a Generative Adversarial Network, or GAN, model designed for general purpose image-to-image translation.
 
 ## What it does ?
