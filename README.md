@@ -8,8 +8,6 @@ Amid the COVID-19 pandemic, wearing masks in public settings is an effective way
 
 Divulge is build with Pix2Pix is a Generative Adversarial Network, or GAN, model designed for general purpose image-to-image translation.
 
-Dataset: https://drive.google.com/file/d/10htH4o8xL3TXOXyk5715p-6DThrx3Fgn/view?usp=sharing
-
 ## What it does ?
 * Training data pairs (x and y where x: input image and y: output image)
 
