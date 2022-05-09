@@ -23,4 +23,4 @@ Dataset: https://drive.google.com/file/d/10htH4o8xL3TXOXyk5715p-6DThrx3Fgn/view?
 - [Mukesh K](https://github.com/mukesh663)
 - [Harish B](https://github.com/irahgem)
 - [I.V. Srisurya](https://github.com/IVSrisurya)
-- G. Dhyanasai
+- [G. Dhyanasai](https://github.com/dhyanasai)
