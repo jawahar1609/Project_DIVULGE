@@ -16,3 +16,6 @@ Divulge is build with Pix2Pix is a Generative Adversarial Network, or GAN, model
 * Generator Network (Encode- decode architecture) as an image is the input, we want to learn the deep representation and decode it and Discriminator Network (PatchGAN).
 
 * CGAN loss function and L1 or L2 Distance.
+
+## Contributors
+- Mukesh [https://github.com/mukesh663]
